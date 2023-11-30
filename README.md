@@ -7,6 +7,7 @@ Unity Game Developer
 I'm a unity Game developer , i work on project ,demos , other unity overview also i make creative and responsive games
 
 * 🌍  I'm based in Abuja
+* 🖥️  See my portfolio at [diamond26400](http://https://diamond26400.itch.io/)
 * ✉️  You can contact me at [obaloluwajames5@gmail.com](mailto:obaloluwajames5@gmail.com)
 * 🤝  I'm open to collaborating on Creative & interesting Games
 
@@ -26,6 +27,8 @@ I'm a unity Game developer , i work on project ,demos , other unity overview als
 
 <b>My GitHub Stats</b>
 
+<a href="http://www.github.com/Diamond26400"><img src="https://github-readme-stats.vercel.app/api?username=Diamond26400&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Diamond26400's GitHub stats" /></a>
+
 <a href="http://www.github.com/Diamond26400"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Diamond26400&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Diamond26400"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Diamond26400&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
@@ -34,4 +37,8 @@ I'm a unity Game developer , i work on project ,demos , other unity overview als
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Diamond26400/Primitive" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diamond26400&repo=Primitive&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Diamond26400/WHACK-A-FOOD" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diamond26400&repo=WHACK-A-FOOD&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Diamond26400/F-Mech " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diamond26400&repo=F-Mech &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Diamond26400/GTTP-Runner " align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Diamond26400&repo=GTTP-Runner &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
