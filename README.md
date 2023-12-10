@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Diamond jamez
 =====================================================================================================================================
 
-Unity Game Developer
+Junior Unity Developer
 --------------------
 
 I'm a unity Game developer , i work on project ,demos , other unity overview also i make creative and responsive games
